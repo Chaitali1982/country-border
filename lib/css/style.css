@@ -1,0 +1,44 @@
+#basemaps-wrapper{
+    color: blue;
+    
+}
+.leaflet-bar{
+    background-color: pink;
+}
+.row{
+   background-color: #4aa1f3;
+   font-size: smaller;
+}
+.modal-footer{
+  background-color: #4aa1f3;
+  width: 90%;
+ 
+}
+
+.modal-header{
+  background-color: #4aa1f3;
+  width: 90%;
+
+
+}
+
+.modal-content{
+  background-color: #4aa1f3;
+  width: 90%;
+  
+
+}
+#row{
+  width: 90%;
+
+
+  background-color: #4aa1f3;
+  color: white;
+  border-radius: 25px;
+}
+.modal-body{
+  background-color: #4aa1f3;
+  width: 90%;
+  
+
+}
